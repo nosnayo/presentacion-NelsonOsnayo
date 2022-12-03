@@ -1,0 +1,130 @@
+/*Importando style para fonts*/
+@import url(https://fonts.googleapis.com/css?family=Lora:400,700|Roboto:300,400,500,700,900);
+@import url(https://use.fontawesome.com/releases/v5.2.0/css/all.css);
+
+
+body {
+  /* background-image: url(https://i.pinimg.com/564x/2c/4a/51/2c4a51890366e789fb90f22239dbc664.jpg); */
+  background-image: url(https://i.pinimg.com/564x/d2/39/61/d23961f429f04adea413966934d8edcf.jpg);
+  /* background: #c5cad1; */
+  color: #0b1641;
+  font-family: 'Lora', serif;
+  font-size: 20px;
+  font-weight: lighter;
+}
+h1, h2, h3, a {
+  font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+  color: #302090;
+  font-size: 40px;
+}
+h2 {
+  color: #302090;
+  font-size: 25px;
+  font-weight: lighter;
+  font-weight: 500;
+}
+a {
+  text-decoration: none;
+  color: #6B72E1;
+  font-weight: 600;
+  font-size: 16px;
+}
+
+.texto {
+  text-align:left;
+  /*color: rgb(99, 182, 233);  */
+  margin-right: 160px;
+  margin-left: 160px;
+}
+
+.gif {
+  width: 60px;
+  height: 60px;
+}
+
+.container {
+  background-color: white;
+  width: 1400px;
+  margin: 10px auto;
+  border-radius: 2%;
+  /*border:5px solid #2B3856;*/
+  box-shadow: 0 0 8vw #2B3856;
+  
+}
+.card {
+  padding: 10px;
+  text-align: center;
+  /*Noaplicaparadivisiondecardbox-shadow: 0px 10px 30px rgba(0,0,0,0.1);
+  border-radius: 4px;
+  margin: 20px 0px;
+  */
+}
+
+ul.normal {
+  /*list-style-type: upper-alpha;*/
+  list-style: none;
+  margin: 10px;
+  padding: 0;
+  width: 100%;
+  /*color: rgb(99, 182, 233); */
+}
+
+.list-inline {
+  list-style: none;
+  padding-left: 0px;
+}
+
+.list-inline li {
+  display: inline;
+  padding: 10px;
+}
+.list-inline i {
+  font-size: 50px;
+  color: rgb(230, 230, 230);
+}
+.list-inline i:hover {
+  color: black;
+}
+
+
+/*Condiciones Responsive*/
+@media (max-width: 960px) {
+  .container {
+    width: 700px;
+  }
+}
+@media (max-width: 720px) {
+  .container {
+    width: 500px;
+  }
+}
+@media (max-width: 540px) {
+  .container {
+    width: 300px;
+  }
+}
+
+/*No Requeridos*/
+/***
+a:hover {
+  color: rgb(117, 95, 195);
+}
+.btn-blue {
+  background-color: #6B72E1;
+  color: white;
+  padding: 15px 20px;
+  border-radius: 4px;
+}
+.btn-blue:hover {
+  background-color: black;
+  color: white;
+}
+.img-circle {
+  border-radius: 50%;
+}
+
+
+***/
