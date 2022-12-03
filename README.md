@@ -4,7 +4,10 @@
 
 </div>
 <!--ACCESO LINK PRESENTACION EN GITHUB PAGE-->
-<h1 align="center"><a href="https://nosnayo.github.io/presentacion-NelsonOsnayo/">Presentación-NelsonOsnayo</a></h1>
+<h1 align="center">Presentación - NelsonOsnayo</h1>
+<a href="https://nosnayo.github.io/presentacion-NelsonOsnayo"><p align="center"> Deploy en GitHub Page </p></a>
+
+
 
 <p align="center">
   <img alt="Github top language" src="https://img.shields.io/github/languages/top/nosnayo/presentacion-NelsonOsnayo?color=56BEB8">
