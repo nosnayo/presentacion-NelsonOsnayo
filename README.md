@@ -3,8 +3,8 @@
   &#xa0;
 
 </div>
-
-<a href="https://nosnayo.github.io/presentacion-NelsonOsnayo//"><h1 align="center">Presentación - NOsnayo</h1></a>
+<!--ACCESO LINK PRESENTACION EN GITHUB PAGE-->
+<h1 align="center"><a href="https://nosnayo.github.io/presentacion-NelsonOsnayo/">Presentación-NelsonOsnayo</a></h1>
 
 <p align="center">
   <img alt="Github top language" src="https://img.shields.io/github/languages/top/nosnayo/presentacion-NelsonOsnayo?color=56BEB8">
